@@ -5,12 +5,6 @@ An elegant flower shopping app built using **Flutter**, designed for a smooth an
 
 ---
 
-## 📱 Screenshots
-
-![App Screenshot](https://github.com/user-attachments/assets/b87ea51f-d3b3-4d0f-8198-73d47751cd87).
-![App Screenshot](https://github.com/user-attachments/assets/fc3fdbf9-17cf-4c48-855b-20121127ef60).
----
-
 ## 🚀 Features
 
 - 🔒 Secure sign-in (email & Google authentication)
@@ -22,6 +16,11 @@ An elegant flower shopping app built using **Flutter**, designed for a smooth an
 - 📂 MVVM architecture using **Cubit** for state management
 - 🔥 Firebase integration for live tracking
 
+---
+## 📱 Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/b87ea51f-d3b3-4d0f-8198-73d47751cd87)
+![App Screenshot](https://github.com/user-attachments/assets/fc3fdbf9-17cf-4c48-855b-20121127ef60)
 ---
 
 ## 🛠️ Tech Stack
